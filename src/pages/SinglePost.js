@@ -59,7 +59,7 @@ function SinglePost(props) {
                 <Grid.Row>
                     <Grid.Column width={2}>
                         <Image 
-                            src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fsu-logo.html&psig=AOvVaw0D74YSvLzOLdBgrSRIc0ck&ust=1622649375442000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjDw5Dm9vACFQAAAAAdAAAAABAO'
+                            src='https://www.dreamstime.com/letter-su-logo-colorful-splash-background-combination-design-creative-industry-web-business-company-image204346351'
                             size="small"
                             float="right"
                         />
