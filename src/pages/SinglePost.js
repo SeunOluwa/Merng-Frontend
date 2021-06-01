@@ -59,7 +59,7 @@ function SinglePost(props) {
                 <Grid.Row>
                     <Grid.Column width={2}>
                         <Image 
-                            src='https://react.semantic-ui.com/images/avatar/large/molly.png'
+                            src='https://png.pngtree.com/png-clipart/20200709/original/pngtree-initial-letter-su-logo-template-png-image_3584476.jpg'
                             size="small"
                             float="right"
                         />

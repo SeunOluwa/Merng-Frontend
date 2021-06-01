@@ -19,7 +19,7 @@ function PostCard({
                 <Image 
                     floated='right' 
                     size='mini' 
-                    src='https://react.semantic-ui.com/images/avatar/large/molly.png'
+                    src='https://png.pngtree.com/png-clipart/20200709/original/pngtree-initial-letter-su-logo-template-png-image_3584476.jpg'
                 />
                 <Card.Header>{username}</Card.Header>
                 <Card.Meta as={Link} to={`/posts/${id}`}>
