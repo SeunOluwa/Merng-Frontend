@@ -19,7 +19,7 @@ function PostCard({
                 <Image 
                     floated='right' 
                     size='mini' 
-                    src='https://png.pngtree.com/png-clipart/20200709/original/pngtree-initial-letter-su-logo-template-png-image_3584476.jpg'
+                    src='https://previews.123rf.com/images/dzein/dzein1912/dzein191200010/135119000-smileys-emojis-famous-celebrity-vector-concept-famous-smiley-emoticon-yellow-faces-group-in-3d-reali.jpg'
                 />
                 <Card.Header>{username}</Card.Header>
                 <Card.Meta as={Link} to={`/posts/${id}`}>
